@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{BF5D4EFE-D543-4926-A6CD-41D290E113BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderWebApi", "OrderWebApi\OrderWebApi.csproj", "{61CB6CDB-4AEB-46BF-9B5B-0D17698B369C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5D4EFE-D543-4926-A6CD-41D290E113BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5D4EFE-D543-4926-A6CD-41D290E113BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5D4EFE-D543-4926-A6CD-41D290E113BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5D4EFE-D543-4926-A6CD-41D290E113BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CB6CDB-4AEB-46BF-9B5B-0D17698B369C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CB6CDB-4AEB-46BF-9B5B-0D17698B369C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CB6CDB-4AEB-46BF-9B5B-0D17698B369C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CB6CDB-4AEB-46BF-9B5B-0D17698B369C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
